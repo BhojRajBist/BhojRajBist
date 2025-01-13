@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhojRajBist
 - 👀 I’m interested in WEB GIS and WEB Mapping.
-- 🌱 I’m currently learning LPostGIS,FastAPI and Maplibre.
+- 🌱 I’m currently learning PostGIS,FastAPI and Maplibre.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on LinkedIn.
 <!---
